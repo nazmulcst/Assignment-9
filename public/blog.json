@@ -1,0 +1,100 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "1",
+    "img": "https://i.ibb.co/V2HhNPz/wed-07.jpg",
+    "price" : "210$",
+    "title": "Weddings",
+    "description": "In the realm of wedding expertise, navigating the intricate tapestry of matrimonial bliss requires finesse and careful planning. From selecting the perfect venue to curating a menu that tantalizes taste buds, every detail contributes to crafting a memorable celebration. Expertly choreographed ceremonies and receptions harmonize with personalized touches, ensuring a unique experience that reflects the couple's essence. Dive into the world of wedding mastery, where seasoned advice meets creative flair, transforming dreams into a seamless, unforgettable reality."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "2",
+    "img": "https://i.ibb.co/FKRZG1q/bir-7.jpg",
+    "price" : "92$",
+    "title": "Birthday Parties",
+    "description": "At [Your Birthday Cake Business], we are passionate about creating delectable birthday cakes that not only satisfy your taste buds but also become the centerpiece of your celebration. We understand that birthdays are moments of joy, and our mission is to make them even sweeter with our delightful creations."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "3",
+    "img": "https://i.ibb.co/Dr6LbWP/A-2.webp",
+    "price" : "120$",
+    "title": "Anniversaries",
+    "description": "Elevate your anniversary celebrations with our exquisite jewelry collection at Your Jewelry Store Name. Our anniversary jewelry pieces are a timeless symbol of love and commitment. From stunning diamond rings to elegant necklaces, each piece is meticulously crafted to capture the essence of your enduring bond. With a range of styles and precious metals, you'll find the perfect gift to mark this special occasion. Cherish your love story with our anniversary jewelry; it's a gift that lasts forever."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "4",
+    "img": "https://i.ibb.co/k13BJrC/eng-7.jpg",
+    "price" : "125$",
+    "title": "Engagement Parties",
+    "description": "At [Your Engagement Ring Business], we understand that an engagement ring isn't just a piece of jewelry; it's a symbol of love, commitment, and the promise of a beautiful future together. Our mission is to help you find the perfect ring that captures your unique love story and the essence of your relationship."
+  },
+    {
+
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "5",
+    "img": "https://i.ibb.co/VT3gwj8/ret-7.jpg",
+    "price" : "92$",
+    "title": "Retirement Parties",
+    "description": "Say goodbye with heartfelt and memorable farewell crafts from Your Craft Shop Name. Our collection offers a thoughtful way to bid farewell to colleagues, friends, or loved ones. Handcrafted with care and creativity, our farewell crafts include personalized cards, custom keepsakes, and unique gifts that express your emotions. Whether it's a farewell party or a heartfelt send-off, our crafts will make the moment unforgettable. Shop now and share your best wishes with a touch of creativity."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "6",
+    "img": "https://i.ibb.co/rHZhK7h/bab-7.jpg",
+    "price" : "170$",
+    "title": "Baby shower",
+    "description": "Welcome the bundle of joy with our adorable baby shower essentials at Your Store Name. We offer a charming selection of baby shower decorations, games, and favors to make your celebration extra special. From whimsical themes to gender-neutral options, our products cater to every style. Create lasting memories with our cute and practical items that will delight guests and parents-to-be alike. Explore our collection today and plan a baby shower filled with love and laughter."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "1",
+    "img": "https://i.ibb.co/R6ycKqp/wed-9.jpg",
+    "price" : "210$",
+    "title": "Weddings",
+    "description": "In the realm of wedding expertise, navigating the intricate tapestry of matrimonial bliss requires finesse and careful planning. From selecting the perfect venue to curating a menu that tantalizes taste buds, every detail contributes to crafting a memorable celebration. Expertly choreographed ceremonies and receptions harmonize with personalized touches, ensuring a unique experience that reflects the couple's essence. Dive into the world of wedding mastery, where seasoned advice meets creative flair, transforming dreams into a seamless, unforgettable reality."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "2",
+    "img": "https://i.ibb.co/RjGnR1p/bir-5.jpg",
+    "price" : "92$",
+    "title": "Birthday Parties",
+    "description": "At [Your Birthday Cake Business], we are passionate about creating delectable birthday cakes that not only satisfy your taste buds but also become the centerpiece of your celebration. We understand that birthdays are moments of joy, and our mission is to make them even sweeter with our delightful creations."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "3",
+    "img": "https://i.ibb.co/vwfCc9f/Ani-2.jpg",
+    "price" : "120$",
+    "title": "Anniversaries",
+    "description": "Elevate your anniversary celebrations with our exquisite jewelry collection at Your Jewelry Store Name. Our anniversary jewelry pieces are a timeless symbol of love and commitment. From stunning diamond rings to elegant necklaces, each piece is meticulously crafted to capture the essence of your enduring bond. With a range of styles and precious metals, you'll find the perfect gift to mark this special occasion. Cherish your love story with our anniversary jewelry; it's a gift that lasts forever."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "4",
+    "img": "https://i.ibb.co/MMz6bBV/eng-6.jpg",
+    "price" : "125$",
+    "title": "Engagement Parties",
+    "description": "At [Your Engagement Ring Business], we understand that an engagement ring isn't just a piece of jewelry; it's a symbol of love, commitment, and the promise of a beautiful future together. Our mission is to help you find the perfect ring that captures your unique love story and the essence of your relationship."
+  },
+    {
+
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "5",
+    "img": "https://i.ibb.co/h9kSNTc/ret-6.jpg",
+    "price" : "92$",
+    "title": "Retirement Parties",
+    "description": "Say goodbye with heartfelt and memorable farewell crafts from Your Craft Shop Name. Our collection offers a thoughtful way to bid farewell to colleagues, friends, or loved ones. Handcrafted with care and creativity, our farewell crafts include personalized cards, custom keepsakes, and unique gifts that express your emotions. Whether it's a farewell party or a heartfelt send-off, our crafts will make the moment unforgettable. Shop now and share your best wishes with a touch of creativity."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "6",
+    "img": "https://i.ibb.co/X8nX34v/bab-2.webp",
+    "price" : "170$",
+    "title": "Baby shower",
+    "description": "Welcome the bundle of joy with our adorable baby shower essentials at Your Store Name. We offer a charming selection of baby shower decorations, games, and favors to make your celebration extra special. From whimsical themes to gender-neutral options, our products cater to every style. Create lasting memories with our cute and practical items that will delight guests and parents-to-be alike. Explore our collection today and plan a baby shower filled with love and laughter."
+  }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Weddings"
+    },
+    {
+        "id": "2",
+        "name": "Birthday Parties"
+    },
+    {
+        "id": "3",
+        "name": "Anniversaries"
+    },
+    {
+        "id": "4",
+        "name": "Engagement Parties"
+    },
+    {
+        "id": "5",
+        "name": "Retirement Parties"
+    },
+    {
+        "id": "6",
+        "name": "Baby shower"
+    }
+]
